@@ -1,4 +1,4 @@
-# 🚀 Guía de Inicio Rápido
+# 🚀 Guía de Inicio Rápido 
 
 Esta guía te ayudará a comenzar a usar los scripts de administración de OCI en minutos.
 
